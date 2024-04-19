@@ -1,0 +1,9 @@
+.letter-rectangle {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  margin: 5px;
+  text-align: center;
+  line-height: 30px;
+}

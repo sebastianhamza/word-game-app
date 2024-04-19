@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start-screen">
+        <button id="start-btn">Start Game</button>
+    </div>
+
+    <div id="game-screen" style="display: none;">
+        <div id="hint-container"></div>
+        <div id="word-container"></div>
+        <button id="reveal-letter-btn">Reveal Random Letter</button>
+        <button id="reveal-all-btn">Reveal All Letters</button>
+        <button id="next-btn">Next</button>
+        <div id="timer">Time Left: 20s</div>
+    </div>
+
+    <div id="end-screen" style="display: none;">
+        <p>Game Over!</p>
+        <button id="restart-btn">Restart</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
