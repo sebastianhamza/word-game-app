@@ -1,6 +1,6 @@
 let round = 1;
 let timerInterval;
-let timeLeft = 20;
+let timeLeft = 30;
 
 function startGame() {
     document.getElementById('start-screen').style.display = 'none';

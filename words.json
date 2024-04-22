@@ -2,5 +2,15 @@
   { "id": 1, "word": "apple", "letters": 5, "complexity": "easy", "hint": "An apple a day keeps the doctor away." },
   { "id": 2, "word": "banana", "letters": 6, "complexity": "easy", "hint": "Bananas are a good source of potassium." },
   { "id": 3, "word": "orange", "letters": 6, "complexity": "medium", "hint": "Oranges are rich in vitamin C." },
-  { "id": 4, "word": "pineapple", "letters": 9, "complexity": "hard", "hint": "Pineapples are tropical fruits." }
+  { "id": 4, "word": "pineapple", "letters": 9, "complexity": "hard", "hint": "Pineapples are tropical fruits." },
+  { "id": 5, "word": "grape", "letters": 5, "complexity": "easy", "hint": "Grapes can be red, green, or purple." },
+  { "id": 6, "word": "kiwi", "letters": 4, "complexity": "easy", "hint": "Kiwi fruit has a fuzzy brown skin." },
+  { "id": 7, "word": "watermelon", "letters": 10, "complexity": "medium", "hint": "Watermelon is refreshing and hydrating." },
+  { "id": 8, "word": "strawberry", "letters": 10, "complexity": "medium", "hint": "Strawberries are often used in desserts." },
+  { "id": 9, "word": "blueberry", "letters": 9, "complexity": "medium", "hint": "Blueberries are small, round, and blue." },
+  { "id": 10, "word": "pomegranate", "letters": 11, "complexity": "hard", "hint": "Pomegranates have juicy, red seeds." },
+  { "id": 11, "word": "peach", "letters": 5, "complexity": "easy", "hint": "Peaches have fuzzy skin and a sweet taste." },
+  { "id": 12, "word": "apricot", "letters": 7, "complexity": "medium", "hint": "Apricots are small, golden-orange fruits." },
+  { "id": 13, "word": "mango", "letters": 5, "complexity": "easy", "hint": "Mangoes have a sweet and tropical flavor." },
+  { "id": 14, "word": "dragonfruit", "letters": 11, "complexity": "hard", "hint": "Dragonfruit has a unique appearance with pink skin and white flesh speckled with black seeds." }
 ]
