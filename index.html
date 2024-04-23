@@ -15,10 +15,26 @@
         <div id="hint-container"></div>
         <div id="word-container"></div>
         <button id="reveal-letter-btn">Reveal Random Letter</button>
-        <button id="reveal-all-btn">Reveal Word</button>
+        <button id="reveal-all-btn">Reveal All Letters</button>
+        <button id="stop-btn">Stop</button>
         <button id="next-btn">Next</button>
-        <div id="timer">Time Left: 30s</div>
+        <div id="timer">Time Left: 20s</div>
+        <div id="second-timer">Second Timer: 10s</div>
     </div>
+    
+    <div id="popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <p id="popup-text"></p>
+            <button id="guessed-yes">Yes</button>
+            <button id="guessed-no">No</button>
+        </div>
+    </div>
+    
+    <div id="score-container" style="display: none;">
+        <p>Score: <span id="score">0</span></p>
+    </div>
+    
+    
 
     <div id="end-screen" style="display: none;">
         <p>Game Over!</p>
